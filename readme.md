@@ -1,4 +1,4 @@
-MAX30105 Particle and Pulse Ox Sensor Breakout
+MAX30105 Particle and Pulse Oximeter Sensor Breakout
 =======
 
 ![MAX30105 Breakout Board](https://raw.githubusercontent.com/sparkfun/MAX30105_Particle_Sensor_Breakout/master/MAX30105-Sensor-Layout-1.jpg)
@@ -18,3 +18,7 @@ License Information
 
 The hardware is released under [Creative Commons Share-alike 4.0](http://creativecommons.org/licenses/by-sa/4.0/).  
 The firmware is released under the [Beerware license](http://en.wikipedia.org/wiki/Beerware).
+
+Hal added this comic:
+
+![dumbEinstein](https://github.com/evensenh/SparkFunMAX30105/assets/59714226/a739e3b2-382a-4d93-9325-d72daaf155ef)
