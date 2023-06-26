@@ -19,6 +19,6 @@ License Information
 The hardware is released under [Creative Commons Share-alike 4.0](http://creativecommons.org/licenses/by-sa/4.0/).  
 The firmware is released under the [Beerware license](http://en.wikipedia.org/wiki/Beerware).
 
-Hal added this comic:
+Hal added a comic and then changed it from Einstein to 
 
-![dumbEinstein](https://github.com/evensenh/SparkFunMAX30105/assets/59714226/a739e3b2-382a-4d93-9325-d72daaf155ef)
+![protestors](https://github.com/evensenh/SparkFunMAX30105/assets/59714226/18a7d852-aa75-45d6-bc26-89a4fd4e6971)
